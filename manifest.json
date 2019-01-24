@@ -1,0 +1,14 @@
+{
+  "name": "Radio TV Kita",
+  "short_name": "radiotvkita",
+  "lang": "en-US",
+  "start_url": "https://webappradiotvkita.blogspot.com/2018/09/webapp.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://2.bp.blogspot.com/-zTW_heISDvo/W6j6QnDRsYI/AAAAAAAABvE/sFcdy9uoSN8YZH5KJpv5QUTAxQSawCUNACPcBGAYYCw/s1600/ic_launcher_round.png",
+      "sizes": "192x192",
+      "type": "png"
+    }
+  ]
+}
